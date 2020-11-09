@@ -1,0 +1,53 @@
+body {
+	background-color: #061C38;
+}
+
+h1 {
+	font-size: 60px;
+	color: #FFEFB9;
+	margin-top: 3%;
+	font-family: 'Bangers', cursive;
+	text-align: center;
+	letter-spacing: 0.5rem;
+}
+
+.fluid-container {
+	width: 35%;
+	margin: 4% auto;
+	text-align: center;
+}
+
+
+.myButton {
+	margin-top: 20%;
+	height: 200px;
+	width: 200px;
+	border-radius: 30px;
+	border: 10px solid black;
+}
+
+.green {
+	background-color: green;
+}
+
+.red {
+	background-color: red;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.game-over {
+	background-color: red;
+ 	opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
